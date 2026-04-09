@@ -1,17 +1,8 @@
 # 🚀 Brako \| Web Developer
 
 💡 Construyo interfaces web funcionales, escalables y centradas en la
-experiencia de usuario.\
+experiencia de usuario.
 ⚙️ En evolución constante hacia arquitecturas Fullstack.
-
-------------------------------------------------------------------------
-
-## 🧠 Enfoque
-
-Desarrollo soluciones reales con foco en: - Lógica clara - Código
-mantenible - Experiencia de usuario fluida
-
-Trabajo cada proyecto como si fuera un producto final, no una práctica.
 
 ------------------------------------------------------------------------
 
@@ -23,7 +14,7 @@ Trabajo cada proyecto como si fuera un producto final, no una práctica.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### ⚙️ Backend (en crecimiento)
+### ⚙️ Backend 
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -54,26 +45,26 @@ Trabajo cada proyecto como si fuera un producto final, no una práctica.
 
 ## 🧬 Forma de trabajar
 
--   🧩 Simplicidad antes que complejidad\
--   📈 Mejora continua\
--   ⚡ Enfoque en resultados\
+-   🧩 Simplicidad antes que complejidad
+-   📈 Mejora continua
+-   ⚡ Enfoque en resultados
 -   🧠 Pensamiento lógico aplicado
 
 ------------------------------------------------------------------------
 
 ## 🌊 Identidad
 
-📍 Mar del Plata\
-🏄‍♂️ Surf como estilo de vida\
+📍 Mar del Plata
+🏄‍♂️ Surf como estilo de vida
 💪 Disciplina trasladada al desarrollo
 
 ------------------------------------------------------------------------
 
 ## 📫 Contacto
 
--   GitHub: *(tu perfil)*
--   LinkedIn: *(muy recomendado)*
--   Email: *(opcional)*
+-   GitHub: *[(Brako Roncoroni)](https://github.com/BrakoRoncoroni)*
+-   LinkedIn: *[(Brako Roncoroni)](https://www.linkedin.com/in/brian-roncoroni-8b61a9125/?locale=%7D)*
+-   Email: *kobradevelopment@outlook.com*
 
 ------------------------------------------------------------------------
 
